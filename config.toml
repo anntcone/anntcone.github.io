@@ -1,0 +1,15 @@
+baseURL = "https://anntcone.github.io/"
+languageCode = "zh-cn"
+title = "家电维修服务"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  disableAnchors = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  useHugoOSSyntaxHighlight = true
